@@ -1,0 +1,6 @@
+[Details]
+Icon = "assets/icon.png"
+Name = "Trimlet Files"
+ID = "local.trimletfiles"
+Version = "1.0.0"
+Build = 35
